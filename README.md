@@ -6,4 +6,4 @@ Sou um praticante do curso [ALURA](https://www.alura.com.br), e estudante da esc
 
 Estou aprendendo sobre a linguagem de programação, e futuramente adicionarei projetos...
 
-![](https://tenor.com/pt-BR/view/renato-augusto-ra8-corinthians-beijo-gif-25105610)
+![](https://media.tenor.com/hbiKUexSQmMAAAAM/renato-augusto.gif)
