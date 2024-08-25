@@ -1,4 +1,4 @@
-⁸## ⚓Sejam bem-vindos ao meu perfil⚓
+# ⚓Sejam bem-vindos ao meu perfil⚓
 
 Meu nome é _**Pedro Henrique Cantuário Teles**_
 
